@@ -1,0 +1,1 @@
+JD Communication Services package. Configure Firebase in request.html/admin.html if needed.
